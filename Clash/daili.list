@@ -1,0 +1,15 @@
+#DOMAIN 域名
+#DOMAIN-SUFFIX 域名后缀
+#DOMAIN-KEYWORD 域名关键字
+#GEOIP IP地理位置 (国家代码)
+#IP-CIDR IPv4地址段
+#IP-CIDR6 IPv6地址段
+#SRC-IP-CIDR 源IP段地址
+#SRC-PORT 源端口
+#DST-PORT 目标端口
+#PROCESS-NAME 源进程名
+#PROCESS-PATH 源进程路径
+#IPSET IP集
+#RULE-SET 规则集
+#SCRIPT 脚本
+#MATCH 全匹配
